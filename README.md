@@ -3,9 +3,11 @@
 ##### - Citation:
 Chapter 8: ***The Early Bantu Expansion into Central Africa: New Data and Insights from Population Genetics***.\
 Authors: Cesar Fortes-Lima,Sara Pacchiarotti, Lorenzo Maselli, Jean-Pierre Donzo Bunza Yugia, Guy  Kouarata, Joseph Koni Muluwa, Leon Mundeke, Koen Bostoen and Carina Schlebusch. \
+\
 Book: ***An Archaeology of the Bantu Expansion: Early Settlers South of the Congo Rainforest***. \
-Edited By Peter R. Coutros, Igor Matonda Sakala, Jessamy Doman, and Koen Bostoen. \
-Publisher: Routledge; London (UK). ISBN: 9781032658124. 
+Edited by Peter R. Coutros, Igor Matonda Sakala, Jessamy Doman, and Koen Bostoen. \
+Publisher: **Routledge**; London (UK). ISBN: 9781032658124. \
+\
 Url: https://www.routledge.com/An-Archaeology-of-the-Bantu-Expansion-Early-Settlers-South-of-the-Congo-Rainforest/RCoutros-MatondaSakala-Doman-Bostoen/p/book/9781032658124
 
 ##### - Scripts:
