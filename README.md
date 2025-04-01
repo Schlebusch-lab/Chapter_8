@@ -12,7 +12,7 @@ Link: https://www.routledge.com/An-Archaeology-of-the-Bantu-Expansion-Early-Sett
 
 ### Figures
 
-###### &emsp;[Figure 8.1 |  Geographical distribution of Bantu-speaking populations.](https://raw.githack.com/Schlebusch-lab/Chapter_8/blob/main/Figures/Figure_8.1.tif)
+###### &emsp;[Figure 8.1 |  Geographical distribution of Bantu-speaking populations.](https://raw.githack.com/Schlebusch-lab/Chapter_8/blob/main/Figures/Figure_8.1.png)
 
 ###### &emsp;[Figure 8.2 |  Geographical distribution of all populations included in the extended Central African dataset.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.2.tif)
 
@@ -22,7 +22,7 @@ Link: https://www.routledge.com/An-Archaeology-of-the-Bantu-Expansion-Early-Sett
 
 ###### &emsp;[Figure 8.5 |  Patterns of genetic similarities between populations included in the Only-DRC dataset.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.5.tif)
 
-###### &emsp;[Figure 8.6 |  Patterns of genetic diversity of all studied Central African populations estimated using clustering ADMIXTURE analysis at K=9.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.6.tif)
+###### &emsp;[Figure 8.6 |  Patterns of genetic diversity of all studied Central African populations estimated using ADMIXTURE analysis at K=9.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.6.tif)
 
 ###### &emsp;[Figure 8.7 |  Patterns of genetic diversity of for non-RHG Ubangi- and Bantu-speaking populations estimated using ADMIXTURE analysis at K=2.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.7.tif)
 
