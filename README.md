@@ -12,9 +12,9 @@ Link: https://www.routledge.com/An-Archaeology-of-the-Bantu-Expansion-Early-Sett
 
 ### Figures
 
-###### &emsp;[Figure 8.1 |  Geographical distribution of Bantu-speaking populations.](https://raw.githack.com/Schlebusch-lab/Chapter_8/blob/main/Figures/Figure_8.1.png)
+###### &emsp;[Figure 8.1 |  Geographical distribution of Bantu-speaking populations.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.1.png)
 
-###### &emsp;[Figure 8.2 |  Geographical distribution of all populations included in the extended Central African dataset.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.2.tif)
+###### &emsp;[Figure 8.2 |  Geographical distribution of all populations included in the extended Central African dataset.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.2.pdf)
 
 ###### &emsp;[Figure 8.3 |  Patterns of genetic similarities between studied African populations.](https://raw.githack.com/Schlebusch-lab/Chapter_8/main/Figures/Figure_8.3.tif)
 
